@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Drive Gear",
-            "x": 0.33748169838945824,
-            "y": 0.16793893129770993,
+            "x": 0.33949416342412453,
+            "y": 0.16412213740458015,
             "uniqueID": 729408,
             "ioValues": [],
             "topLevel": false,
@@ -265,11 +265,11 @@
                     "ioValues": [
                         {
                             "name": "Number Of Teeth",
-                            "ioValue": 29
+                            "ioValue": 17
                         },
                         {
                             "name": "Circular Pitch",
-                            "ioValue": 3
+                            "ioValue": 5
                         },
                         {
                             "name": "Pressure Angle",
@@ -299,8 +299,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Center for shaft and shorten",
-                    "x": 0.3448023426061494,
-                    "y": 0.8129770992366412,
+                    "x": 0.3424124513618677,
+                    "y": 0.8244274809160305,
                     "uniqueID": 311848,
                     "ioValues": [],
                     "topLevel": false,
@@ -331,7 +331,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 6.4
+                                    "ioValue": 6.2
                                 }
                             ]
                         },
@@ -348,7 +348,7 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 7
+                                    "ioValue": 7.6
                                 },
                                 {
                                     "name": "yDist",
