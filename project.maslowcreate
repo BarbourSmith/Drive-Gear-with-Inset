@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Drive Gear",
-            "x": 0.33949416342412453,
-            "y": 0.16412213740458015,
+            "x": 0.3424124513618677,
+            "y": 0.16030534351145037,
             "uniqueID": 729408,
             "ioValues": [],
             "topLevel": false,
@@ -299,8 +299,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Center for shaft and shorten",
-                    "x": 0.3424124513618677,
-                    "y": 0.8244274809160305,
+                    "x": 0.3404669260700389,
+                    "y": 0.8206106870229009,
                     "uniqueID": 311848,
                     "ioValues": [],
                     "topLevel": false,
@@ -693,27 +693,10 @@
             "simplify": false
         },
         {
-            "atomType": "ExtractTag",
-            "name": "Extract Tag",
-            "x": 0.6171303074670571,
-            "y": 0.3015267175572519,
-            "uniqueID": 794739,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": "atoms/893855/180327Assembly"
-                },
-                {
-                    "name": "tag",
-                    "ioValue": "Gear"
-                }
-            ]
-        },
-        {
             "atomType": "Molecule",
             "name": "Grabber",
-            "x": 0.25109809663250365,
-            "y": 0.6450381679389313,
+            "x": 0.2519455252918288,
+            "y": 0.6374045801526718,
             "uniqueID": 455957,
             "ioValues": [],
             "topLevel": false,
@@ -721,8 +704,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Profile",
-                    "x": 0.16471449487554907,
-                    "y": 0.26717557251908397,
+                    "x": 0.16245136186770429,
+                    "y": 0.27099236641221375,
                     "uniqueID": 973302,
                     "ioValues": [],
                     "topLevel": false,
@@ -740,7 +723,7 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 10
+                                    "ioValue": 8
                                 },
                                 {
                                     "name": "yDist",
@@ -812,7 +795,7 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": -10
+                                    "ioValue": -8
                                 },
                                 {
                                     "name": "yDist",
@@ -852,7 +835,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 14
+                                    "ioValue": 12
                                 }
                             ]
                         },
@@ -1005,7 +988,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Center",
-                    "x": 0.12884333821376281,
+                    "x": 0.1254863813229572,
                     "y": 0.7290076335877863,
                     "uniqueID": 483350,
                     "ioValues": [],
@@ -1037,7 +1020,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 6.4
+                                    "ioValue": 6.2
                                 }
                             ]
                         },
@@ -1054,7 +1037,7 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 7
+                                    "ioValue": 7.6
                                 },
                                 {
                                     "name": "yDist",
@@ -1347,6 +1330,23 @@
             "simplify": false
         },
         {
+            "atomType": "ExtractTag",
+            "name": "Extract Tag",
+            "x": 0.6171303074670571,
+            "y": 0.3015267175572519,
+            "uniqueID": 794739,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "atoms/893855/180327Assembly"
+                },
+                {
+                    "name": "tag",
+                    "ioValue": "Gear"
+                }
+            ]
+        },
+        {
             "atomType": "Translate",
             "name": "Translate",
             "x": 0.3382137628111274,
@@ -1424,18 +1424,18 @@
             "ap2ID": 180327
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 794739,
-            "ap2ID": 334696
-        },
-        {
             "ap1Name": "Geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 455957,
             "ap2ID": 757933
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 794739,
+            "ap2ID": 334696
         },
         {
             "ap1Name": "geometry",
