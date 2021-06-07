@@ -695,8 +695,8 @@
         {
             "atomType": "Molecule",
             "name": "Grabber",
-            "x": 0.2519455252918288,
-            "y": 0.6374045801526718,
+            "x": 0.25,
+            "y": 0.6297709923664122,
             "uniqueID": 455957,
             "ioValues": [],
             "topLevel": false,
