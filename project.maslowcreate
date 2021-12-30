@@ -1447,6 +1447,23 @@
             ]
         },
         {
+            "atomType": "Difference",
+            "name": "Difference",
+            "x": 0.7774891774891775,
+            "y": 0.6698717948717948,
+            "uniqueID": 479306,
+            "ioValues": [
+                {
+                    "name": "geometry2",
+                    "ioValue": "atoms/893855/164932Molecule"
+                },
+                {
+                    "name": "geometry1",
+                    "ioValue": "atoms/893855/794739ExtractTag"
+                }
+            ]
+        },
+        {
             "atomType": "Molecule",
             "name": "Center for shaft and shorten",
             "x": 0.6216450216450217,
@@ -1724,23 +1741,6 @@
             "unitsIndex": 0
         },
         {
-            "atomType": "Difference",
-            "name": "Difference",
-            "x": 0.7757575757575758,
-            "y": 0.782051282051282,
-            "uniqueID": 479306,
-            "ioValues": [
-                {
-                    "name": "geometry2",
-                    "ioValue": "atoms/893855/164932Molecule"
-                },
-                {
-                    "name": "geometry1",
-                    "ioValue": "atoms/893855/794739ExtractTag"
-                }
-            ]
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
@@ -1825,18 +1825,18 @@
             "ap2ID": 921145
         },
         {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry2",
-            "ap2Primary": false,
-            "ap1ID": 164932,
-            "ap2ID": 479306
-        },
-        {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": false,
             "ap1ID": 479306,
             "ap2ID": 334696
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry2",
+            "ap2Primary": false,
+            "ap1ID": 164932,
+            "ap2ID": 479306
         }
     ],
     "fileTypeVersion": 1,
