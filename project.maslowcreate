@@ -1450,7 +1450,7 @@
             "atomType": "Difference",
             "name": "Difference",
             "x": 0.7774891774891775,
-            "y": 0.6698717948717948,
+            "y": 0.6539792387543253,
             "uniqueID": 479306,
             "ioValues": [
                 {
@@ -1843,5 +1843,5 @@
     "simplify": false,
     "unitsIndex": 0,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.051"
+    "circleSegmentSize": "0.001"
 }
