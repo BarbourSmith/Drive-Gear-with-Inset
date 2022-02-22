@@ -19,8 +19,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Retainer for bearings",
-                    "x": 0.31185944363103957,
-                    "y": 0.16793893129770993,
+                    "x": 0.31283068783068785,
+                    "y": 0.16,
                     "uniqueID": 363551,
                     "ioValues": [],
                     "topLevel": false,
@@ -34,7 +34,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 11
+                                    "ioValue": 12
                                 }
                             ]
                         },
@@ -47,7 +47,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/363551/489792Circle"
+                                    "ioValue": "source/893855/729408/363551/489792Circle"
                                 },
                                 {
                                     "name": "height",
@@ -64,7 +64,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/363551/847671Extrude"
+                                    "ioValue": "source/893855/729408/363551/847671Extrude"
                                 },
                                 {
                                     "name": "xDist",
@@ -89,7 +89,7 @@
                             "ioValues": [
                                 {
                                     "name": "number or geometry",
-                                    "ioValue": "atoms/893855/729408/363551/988049Translate"
+                                    "ioValue": "source/893855/729408/363551/988049Translate"
                                 }
                             ]
                         }
@@ -143,7 +143,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/648955Circle"
+                            "ioValue": "source/893855/729408/648955Circle"
                         },
                         {
                             "name": "height",
@@ -154,21 +154,21 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 0.42857142857142855,
-                    "y": 0.3076923076923077,
+                    "x": 0.42724867724867727,
+                    "y": 0.2953846153846154,
                     "uniqueID": 433473,
                     "ioValues": [
                         {
                             "name": "3D shape 1",
-                            "ioValue": 10
+                            "ioValue": "source/893855/729408/482402Extrude"
                         },
                         {
                             "name": "3D shape 2",
-                            "ioValue": 10
+                            "ioValue": "source/893855/729408/363551Molecule"
                         },
                         {
                             "name": "3D shape 3",
-                            "ioValue": 10
+                            "ioValue": "source/893855/729408/807502Translate"
                         }
                     ]
                 },
@@ -181,7 +181,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/367728GitHubMolecule"
+                            "ioValue": "source/893855/729408/367728GitHubMolecule"
                         },
                         {
                             "name": "height",
@@ -198,7 +198,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/665432Extrude"
+                            "ioValue": "source/893855/729408/665432Extrude"
                         },
                         {
                             "name": "xDist",
@@ -223,7 +223,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/433473Assembly"
+                            "ioValue": "source/893855/729408/433473Assembly"
                         },
                         {
                             "name": "x-axis degrees",
@@ -275,7 +275,7 @@
                     "ioValues": [
                         {
                             "name": "geometry2",
-                            "ioValue": "atoms/893855/729408/311848Molecule"
+                            "ioValue": "source/893855/729408/311848Molecule"
                         },
                         {
                             "name": "geometry1",
@@ -292,7 +292,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/483888Rotate"
+                            "ioValue": "source/893855/729408/483888Rotate"
                         }
                     ],
                     "selectedColorIndex": "3"
@@ -315,7 +315,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/311848/356538Circle"
+                                    "ioValue": "source/893855/729408/311848/356538Circle"
                                 },
                                 {
                                     "name": "height",
@@ -345,7 +345,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/311848/558607Extrude"
+                                    "ioValue": "source/893855/729408/311848/558607Extrude"
                                 },
                                 {
                                     "name": "xDist",
@@ -370,7 +370,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/311848/538885Rectangle"
+                                    "ioValue": "source/893855/729408/311848/538885Rectangle"
                                 },
                                 {
                                     "name": "height",
@@ -387,11 +387,11 @@
                             "ioValues": [
                                 {
                                     "name": "geometry2",
-                                    "ioValue": "atoms/893855/729408/311848/704047Translate"
+                                    "ioValue": "source/893855/729408/311848/704047Translate"
                                 },
                                 {
                                     "name": "geometry1",
-                                    "ioValue": "atoms/893855/729408/311848/803131Extrude"
+                                    "ioValue": "source/893855/729408/311848/803131Extrude"
                                 }
                             ]
                         },
@@ -421,7 +421,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/729408/311848/830537Circle"
+                                    "ioValue": "source/893855/729408/311848/830537Circle"
                                 },
                                 {
                                     "name": "height",
@@ -451,11 +451,11 @@
                             "ioValues": [
                                 {
                                     "name": "3D shape 1",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/729408/311848/709757Extrude"
                                 },
                                 {
                                     "name": "3D shape 2",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/729408/311848/351981Difference"
                                 }
                             ]
                         },
@@ -468,7 +468,7 @@
                             "ioValues": [
                                 {
                                     "name": "number or geometry",
-                                    "ioValue": "atoms/893855/729408/311848/351981Difference"
+                                    "ioValue": "source/893855/729408/311848/351981Difference"
                                 }
                             ]
                         }
@@ -551,7 +551,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/805804Color"
+                            "ioValue": "source/893855/729408/805804Color"
                         },
                         {
                             "name": "xDist",
@@ -576,7 +576,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "atoms/893855/729408/877207Tag"
+                            "ioValue": "source/893855/729408/877207Tag"
                         }
                     ]
                 },
@@ -589,7 +589,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/729408/112890Translate"
+                            "ioValue": "source/893855/729408/112890Translate"
                         },
                         {
                             "name": "tag",
@@ -697,7 +697,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "atoms/893855/455957Molecule"
+                    "ioValue": "source/893855/455957Molecule"
                 },
                 {
                     "name": "xDist",
@@ -740,7 +740,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/973302/602083Circle"
+                                    "ioValue": "source/893855/455957/973302/602083Circle"
                                 },
                                 {
                                     "name": "xDist",
@@ -778,23 +778,23 @@
                             "ioValues": [
                                 {
                                     "name": "3D shape 1",
-                                    "ioValue": "atoms/893855/455957/973302/418572Translate"
+                                    "ioValue": "source/893855/455957/973302/418572Translate"
                                 },
                                 {
                                     "name": "3D shape 2",
-                                    "ioValue": "atoms/893855/455957/973302/605403Translate"
+                                    "ioValue": "source/893855/455957/973302/605403Translate"
                                 },
                                 {
                                     "name": "3D shape 3",
-                                    "ioValue": ""
+                                    "ioValue": 10
                                 },
                                 {
                                     "name": "3D shape 1",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/455957/973302/418572Translate"
                                 },
                                 {
                                     "name": "3D shape 2",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/455957/973302/605403Translate"
                                 },
                                 {
                                     "name": "3D shape 3",
@@ -812,7 +812,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/973302/602083Circle"
+                                    "ioValue": "source/893855/455957/973302/602083Circle"
                                 },
                                 {
                                     "name": "xDist",
@@ -856,11 +856,11 @@
                             "ioValues": [
                                 {
                                     "name": "3D shape 2",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/455957/973302/163142GitHubMolecule"
                                 },
                                 {
                                     "name": "3D shape 3",
-                                    "ioValue": 10
+                                    "ioValue": "source/893855/455957/973302/131204Circle"
                                 }
                             ]
                         },
@@ -886,7 +886,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/973302/125834Assembly"
+                                    "ioValue": "source/893855/455957/973302/125834Assembly"
                                 },
                                 {
                                     "name": "height",
@@ -903,7 +903,7 @@
                             "ioValues": [
                                 {
                                     "name": "number or geometry",
-                                    "ioValue": "atoms/893855/455957/973302/695317Extrude"
+                                    "ioValue": "source/893855/455957/973302/695317Extrude"
                                 }
                             ]
                         }
@@ -986,11 +986,11 @@
                     "ioValues": [
                         {
                             "name": "geometry2",
-                            "ioValue": "atoms/893855/455957/483350Molecule"
+                            "ioValue": "source/893855/455957/483350Molecule"
                         },
                         {
                             "name": "geometry1",
-                            "ioValue": "atoms/893855/455957/973302Molecule"
+                            "ioValue": "source/893855/455957/973302Molecule"
                         }
                     ]
                 },
@@ -1003,7 +1003,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/455957/679346Difference"
+                            "ioValue": "source/893855/455957/679346Difference"
                         }
                     ]
                 },
@@ -1025,7 +1025,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/483350/356538Circle"
+                                    "ioValue": "source/893855/455957/483350/356538Circle"
                                 },
                                 {
                                     "name": "height",
@@ -1055,7 +1055,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/483350/558607Extrude"
+                                    "ioValue": "source/893855/455957/483350/558607Extrude"
                                 },
                                 {
                                     "name": "xDist",
@@ -1080,11 +1080,11 @@
                             "ioValues": [
                                 {
                                     "name": "geometry2",
-                                    "ioValue": "atoms/893855/455957/483350/704047Translate"
+                                    "ioValue": "source/893855/455957/483350/704047Translate"
                                 },
                                 {
                                     "name": "geometry1",
-                                    "ioValue": "atoms/893855/455957/483350/803131Extrude"
+                                    "ioValue": "source/893855/455957/483350/803131Extrude"
                                 }
                             ]
                         },
@@ -1097,7 +1097,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/483350/538885Rectangle"
+                                    "ioValue": "source/893855/455957/483350/538885Rectangle"
                                 },
                                 {
                                     "name": "height",
@@ -1131,7 +1131,7 @@
                             "ioValues": [
                                 {
                                     "name": "geometry",
-                                    "ioValue": "atoms/893855/455957/483350/351981Difference"
+                                    "ioValue": "source/893855/455957/483350/351981Difference"
                                 },
                                 {
                                     "name": "x-axis degrees",
@@ -1156,7 +1156,7 @@
                             "ioValues": [
                                 {
                                     "name": "number or geometry",
-                                    "ioValue": "atoms/893855/455957/483350/421509Rotate"
+                                    "ioValue": "source/893855/455957/483350/421509Rotate"
                                 }
                             ]
                         }
@@ -1225,7 +1225,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/455957/588286Circle"
+                            "ioValue": "source/893855/455957/588286Circle"
                         },
                         {
                             "name": "height",
@@ -1255,11 +1255,11 @@
                     "ioValues": [
                         {
                             "name": "3D shape 1",
-                            "ioValue": 10
+                            "ioValue": "source/893855/455957/401666Color"
                         },
                         {
                             "name": "3D shape 2",
-                            "ioValue": 10
+                            "ioValue": "source/893855/455957/679346Difference"
                         }
                     ]
                 },
@@ -1272,7 +1272,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/455957/137478Extrude"
+                            "ioValue": "source/893855/455957/137478Extrude"
                         }
                     ],
                     "selectedColorIndex": "21"
@@ -1286,7 +1286,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "atoms/893855/455957/973302Molecule"
+                            "ioValue": "source/893855/455957/973302Molecule"
                         }
                     ]
                 }
@@ -1362,11 +1362,11 @@
             "ioValues": [
                 {
                     "name": "3D shape 1",
-                    "ioValue": 10
+                    "ioValue": "source/893855/729408Molecule"
                 },
                 {
                     "name": "3D shape 4",
-                    "ioValue": 10
+                    "ioValue": "source/893855/921145Move"
                 }
             ]
         },
@@ -1379,7 +1379,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "atoms/893855/180327Assembly"
+                    "ioValue": "source/893855/180327Assembly"
                 },
                 {
                     "name": "tag",
@@ -1396,7 +1396,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "atoms/893855/402770Extrude"
+                    "ioValue": "source/893855/402770Extrude"
                 },
                 {
                     "name": "xDist",
@@ -1438,7 +1438,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "atoms/893855/891650Rectangle"
+                    "ioValue": "source/893855/891650Rectangle"
                 },
                 {
                     "name": "height",
@@ -1455,11 +1455,11 @@
             "ioValues": [
                 {
                     "name": "geometry2",
-                    "ioValue": "atoms/893855/164932Molecule"
+                    "ioValue": "source/893855/164932Molecule"
                 },
                 {
                     "name": "geometry1",
-                    "ioValue": "atoms/893855/794739ExtractTag"
+                    "ioValue": "source/893855/794739ExtractTag"
                 }
             ]
         },
@@ -1481,7 +1481,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/164932/356538Circle"
+                            "ioValue": "source/893855/164932/356538Circle"
                         },
                         {
                             "name": "height",
@@ -1511,7 +1511,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/164932/558607Extrude"
+                            "ioValue": "source/893855/164932/558607Extrude"
                         },
                         {
                             "name": "xDist",
@@ -1536,7 +1536,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/164932/538885Rectangle"
+                            "ioValue": "source/893855/164932/538885Rectangle"
                         },
                         {
                             "name": "height",
@@ -1553,11 +1553,11 @@
                     "ioValues": [
                         {
                             "name": "geometry2",
-                            "ioValue": "atoms/893855/164932/704047Translate"
+                            "ioValue": "source/893855/164932/704047Translate"
                         },
                         {
                             "name": "geometry1",
-                            "ioValue": "atoms/893855/164932/803131Extrude"
+                            "ioValue": "source/893855/164932/803131Extrude"
                         }
                     ]
                 },
@@ -1587,7 +1587,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/164932/830537Circle"
+                            "ioValue": "source/893855/164932/830537Circle"
                         },
                         {
                             "name": "height",
@@ -1617,11 +1617,11 @@
                     "ioValues": [
                         {
                             "name": "3D shape 1",
-                            "ioValue": 10
+                            "ioValue": "source/893855/164932/709757Extrude"
                         },
                         {
                             "name": "3D shape 2",
-                            "ioValue": 10
+                            "ioValue": "source/893855/164932/351981Difference"
                         }
                     ]
                 },
@@ -1634,7 +1634,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/893855/164932/351981Difference"
+                            "ioValue": "source/893855/164932/351981Difference"
                         },
                         {
                             "name": "x-axis degrees",
@@ -1659,7 +1659,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "atoms/893855/164932/988615Rotate"
+                            "ioValue": "source/893855/164932/988615Rotate"
                         }
                     ]
                 }
@@ -1749,7 +1749,7 @@
             "ioValues": [
                 {
                     "name": "number or geometry",
-                    "ioValue": "atoms/893855/180327Assembly"
+                    "ioValue": "source/893855/180327Assembly"
                 }
             ]
         },
@@ -1762,7 +1762,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": "atoms/893855/479306Difference"
+                    "ioValue": "source/893855/479306Difference"
                 }
             ]
         }
