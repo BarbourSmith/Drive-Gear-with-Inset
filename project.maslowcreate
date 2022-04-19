@@ -716,8 +716,8 @@
         {
             "atomType": "Molecule",
             "name": "Grabber",
-            "x": 0.20606060606060608,
-            "y": 0.49358974358974367,
+            "x": 0.1970899470899471,
+            "y": 0.49230769230769234,
             "uniqueID": 455957,
             "ioValues": [],
             "topLevel": false,
@@ -980,8 +980,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 0.3525132275132275,
-                    "y": 0.21474358974358973,
+                    "x": 0.34854497354497355,
+                    "y": 0.21538461538461537,
                     "uniqueID": 679346,
                     "ioValues": [
                         {
@@ -1049,8 +1049,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.4092240117130308,
-                            "y": 0.4389312977099236,
+                            "x": 0.4041005291005291,
+                            "y": 0.43692307692307697,
                             "uniqueID": 704047,
                             "ioValues": [
                                 {
@@ -1059,7 +1059,7 @@
                                 },
                                 {
                                     "name": "xDist",
-                                    "ioValue": 7.3
+                                    "ioValue": 7.38
                                 },
                                 {
                                     "name": "yDist",
@@ -1356,8 +1356,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.5281385281385281,
-            "y": 0.21794871794871795,
+            "x": 0.5284391534391535,
+            "y": 0.1846153846153846,
             "uniqueID": 180327,
             "ioValues": [
                 {
@@ -1656,12 +1656,7 @@
                     "x": 0.9853587115666179,
                     "y": 0.5,
                     "uniqueID": 635911,
-                    "ioValues": [
-                        {
-                            "name": "number or geometry",
-                            "ioValue": "source/893855/164932/988615Rotate"
-                        }
-                    ]
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
